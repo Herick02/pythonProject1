@@ -31,11 +31,11 @@ Follow the steps below to set up and run the tests on your local machine:
 ## Running the Tests
 Execute the test script by running the following command in your terminal:
 ```bash
-python login_test.py
+python main.py
 ```
 
 ## Test Cases
-The `login_test.py` script includes both positive and negative test cases for the login page. It covers scenarios such as:
+The `main.py` script includes both positive and negative test cases for the login page. It covers scenarios such as:
 - Successful login with valid credentials.
 - Invalid login with incorrect username or password.
 - Handling of empty username or password fields.
