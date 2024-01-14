@@ -24,7 +24,7 @@ Follow the steps below to set up and run the tests on your local machine:
 
 3. **Configure Test Parameters:**
    Open the `config.py` file and update the following parameters:
-   - `BASE_URL`: The URL of the login page you want to test.
+   - `BASE_URL: (https://practicetestautomation.com/practice-test-login/).
    - `VALID_USERNAME` and `VALID_PASSWORD`: Credentials for positive testing.
    - `INVALID_USERNAME` and `INVALID_PASSWORD`: Credentials for negative testing.
 
