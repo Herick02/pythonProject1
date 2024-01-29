@@ -1,6 +1,6 @@
 # Selenium Webdriver Login Page Testing
 
-## Introduction
+## Introduction.
 This repository contains Python code for testing a login page using Selenium Webdriver. The purpose of this project is to perform both positive and negative tests on a login page to ensure its functionality and security.
 
 ## Technologies Used
